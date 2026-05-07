@@ -6,7 +6,7 @@
 
 Sou de Brasília, tenho 16 anos e atualmente moro em Patrocinio-MG.
 
-Eu gosto de games, filmes, animes, minha familia e minha namorada.
+Eu gosto de games, filmes, animes, minha familia e meus amigos.
 
 Gosto de progamar e de matematica,quimica, biologia e ser goleiro no futebol.
 
