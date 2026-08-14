@@ -12,7 +12,7 @@ Gosto de progamar e de matematica,quimica, biologia e ser goleiro no futebol.
 
 Desejo me tornar um medico ou progamador.
 
-Estou estudando linguagem C e manuntenção de computadores.
+Estou estudando linguagem C , HTML, CSS e JS e manuntenção de computadores.
 
 [![MasterHead](https://images6.alphacoders.com/139/1395230.jpg)](https://github.com/nikolascaixeta)
 
